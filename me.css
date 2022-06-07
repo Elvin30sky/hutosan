@@ -1,0 +1,83 @@
+/* 共同 */
+
+    /* 空氣 */
+    .air {
+        padding: 20px;
+    }
+
+    /* 導覽列 */
+
+        /* 跑馬燈 */
+        .mmticker ul li a{
+            /* font-size: 30px; */
+            font-weight: bold;
+            margin: auto;
+            color: #ffccba
+        }
+        /* 可能還有用 */
+        /* .mmticker {
+            top: -18px;
+            left: 150px;
+            background-color: #ACBFF0; 
+        } */
+
+
+/* 雷同 */
+
+    /* 底圖背景色 */
+
+        /* 認識虎頭山 - 沿革 */
+        .backgroundOverlay:after {
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+
+        /* 交通資訊 - 公車 */
+        .bus:after {
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+
+
+/* 首頁 */
+
+
+
+
+
+/* 認識虎頭山 */
+
+    /* 沿革 */
+        .Historical_Documents{
+            padding: 50px 0px 50px;
+        }
+
+        .History, .Attractions, .Day-trippers, .Shopping-areas {
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+
+/* 虎頭山風采 */
+
+        
+
+
+/* 商圈 */
+
+
+/* 交通資訊 */
+
+    /* google map */
+    .GOGOOGOGlemap {
+        width: 100%;
+        height: 100%;
+    }
+
+/* 周邊一日遊 */
+
+
+.AttractionsImg {
+    margin: 50px 0 50px 0;
+}
+
+
